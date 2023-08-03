@@ -1,4 +1,10 @@
 # e-Commerce App With React Native
 
 
-![Preview GIF](https://github.com/onurmrglu/e-commerce-mobile-app-RN/assets/135235461/ca79d4f2-631b-4e00-a854-ba143a1f84a3)
+Interface preview video:
+
+
+
+
+https://github.com/onurmrglu/e-commerce-mobile-app-RN/assets/135235461/f6a6f868-8b4c-4f8d-a6ab-314a6cd85cfb
+
